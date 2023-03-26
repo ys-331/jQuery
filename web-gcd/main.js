@@ -13,9 +13,4 @@ $('#button-gcd').on('click', () => {
   $('#box').html(amari);
 });
 
-console.log('miss');
-
 // const abc = ('abc') 
-// $('#box').text(abc);
-
-A
